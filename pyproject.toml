@@ -1,0 +1,21 @@
+[project]
+name = "opensearch-memory-usage-benchmarking"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "fastembed>=0.8.1",
+    "jupyter>=1.1.1",
+    "opensearch-py>=3.2.0",
+    "pandas>=3.0.6",
+    "requests>=2.34.2",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.18,<0.13"]
+build-backend = "uv_build"
+
+[tool.uv]
+package = true
+
+[tool.uv.build-backend]
+module-name = "index_memory_usage"

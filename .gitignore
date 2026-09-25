@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Tests and tooling
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration and editors
+.env
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db

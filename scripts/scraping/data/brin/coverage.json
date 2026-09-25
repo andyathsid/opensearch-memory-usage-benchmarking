@@ -1,0 +1,4816 @@
+{
+  "author_affiliations": [
+    {
+      "dataset_count": 2,
+      "value": "Badan Strategi Kebijakan Dalam Negeri"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Balai Konservasi Tumbuhan Kebun Raya Eka Karya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Balai Litbang LHK Makassar"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Balai Penelitian dan Pengembangan Lingkungan Hidup dan Kehutanan Makassar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Balai Penelitian Pemulihan dan Konservasi Sumberdaya Ikan, Purwakarta"
+    },
+    {
+      "dataset_count": 13,
+      "value": "Balai Penelitian Teknologi Mineral"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Balai Pengembangan Bio Industri Laut"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Balai Pengembangan Instrumentasi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BATAN"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BBMKG WIl.II"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BBMKG WILAYAH II"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BBTMC"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Biosistematika Ikan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BirdLife International"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Biro Umum"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BKT Kebun Raya Purwodadi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BKT Kebun Raya Purwodadi P2KTKR"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BMKG"
+    },
+    {
+      "dataset_count": 1,
+      "value": "BPTBA LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Campus da Penha"
+    },
+    {
+      "dataset_count": 1,
+      "value": "College of Ocean and Earth Sciences，Xiamen University"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Department of Earth and Planetary Sciences"
+    },
+    {
+      "dataset_count": 32,
+      "value": "Fakultas Farmasi Universitas Mulawarman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fisheries Research Institute of Malaysia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Global Change Research Program"
+    },
+    {
+      "dataset_count": 5,
+      "value": "IAID Ciamis"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Indonesian Institute of Sciences"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Indonesian Institute of Sciences - LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Institut Agama Islam Darussalam (IAID) Ciamis"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Institut Agama Islam Hamzanwadi Pancor, Mataram"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Institut für Biologie I (Zoologie)"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Institut Teknologi Indonesia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Institute for Research on Earth Evolution"
+    },
+    {
+      "dataset_count": 1,
+      "value": "James Cook University"
+    },
+    {
+      "dataset_count": 1,
+      "value": "kalsium rendah, salinitas tinggi dan karbohidrat tinggi, 2009-2010. Wulandari, Dyah Retno Pusat Penelitian Bioteknologi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kebun Raya Purwodadi, Pusat Penelitian Konservasi Tumbuhan dan Kebun Raya, Lembaga Ilmu Pengetahuan Indonesia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kebun Raya Purwodadi-LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kedeputian Bidang Kebijakan Pembangunan-BRIN"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kinki University"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Korea Research Institute of Standards and Science"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Kyoto University"
+    },
+    {
+      "dataset_count": 40,
+      "value": "Lembaga Ilmu Pengetahuan Indonesia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Linzgaustrasse 18"
+    },
+    {
+      "dataset_count": 10,
+      "value": "LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Litbang KLHK Makassar"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Loka Alih Teknologi Penyehatan Danau"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Loka Pengembangan Kompetensi Sumber Daya Manusia Oseanografi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mie University"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ministry of Agriculture and Cooperatives, Thailand"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ministry of Marine Affairs and Fisheries"
+    },
+    {
+      "dataset_count": 1,
+      "value": "National Museum of Natural History"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Natural History Museum"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Okayama University"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Oxford Brookes University"
+    },
+    {
+      "dataset_count": 1,
+      "value": "P2ET LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "PAPPIPTEK-LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "PRKKP-BRIN"
+    },
+    {
+      "dataset_count": 1,
+      "value": "PRMLTL-BRIN"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Pusat Dokumentasi dan Informasi Ilmiah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Dokumentasi dan Informasi Ilmiah LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Dokumentasi Informasi Ilmiah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Inovasi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Kalibrasi Instrumentasi dan Metalurgi LIPI"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Pusat Konservasi Tumbuhan Kebun Ray"
+    },
+    {
+      "dataset_count": 60,
+      "value": "Pusat Konservasi Tumbuhan Kebun Raya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Konservasi Tumbuhan Kebun Raya  Bogor"
+    },
+    {
+      "dataset_count": 324,
+      "value": "Pusat Konservasi Tumbuhan Kebun Raya Bogor"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pusat Konservasi Tumbuhan Kebun Raya Bogor LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Konservasi Tumbuhan Kebun Raya BogorPusat Konservasi Tumbuhan Kebun Raya BogorPusat Konservasi Tumbuhan Kebun Raya Bogor"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitan Bioteknologi LIPI"
+    },
+    {
+      "dataset_count": 71,
+      "value": "Pusat Penelitian Biologi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Biologi - LIPI"
+    },
+    {
+      "dataset_count": 16,
+      "value": "Pusat Penelitian Biologi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Biologi-LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "pusat penelitian biologil-LIPI"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Pusat Penelitian Biomaterial"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pusat Penelitian Bioteknologi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "pusat penelitian bioteknologi"
+    },
+    {
+      "dataset_count": 18,
+      "value": "Pusat Penelitian Bioteknologi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian dan Pengembangan Politik dan Kewilayahan LIPI"
+    },
+    {
+      "dataset_count": 10,
+      "value": "Pusat Penelitian dan Pengembangan Politik di Kewilayahan (PPW) LIPI"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Pusat Penelitian Ekonomi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Elekronika dan Komunikasi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Elektronika dan Telekomunikasi"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Pusat Penelitian Elektronika dan Telekomunikasi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Elektronika dan Telekonunikasi LIPI"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pusat Penelitian Fisika"
+    },
+    {
+      "dataset_count": 16,
+      "value": "Pusat Penelitian Fisika LIPI"
+    },
+    {
+      "dataset_count": 9,
+      "value": "Pusat Penelitian Geoteknologi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Geoteknologi ("
+    },
+    {
+      "dataset_count": 10,
+      "value": "Pusat Penelitian Geoteknologi LIPI"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Pusat Penelitian Informatika"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Pusat Penelitian Informatika LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Informatika LIPI, Technische Universität Ilmenau"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Kalibrasi Instrumentasi dan Metrologi LIPI"
+    },
+    {
+      "dataset_count": 11,
+      "value": "Pusat Penelitian Kebijakan dan Manajemen Ilmu Pengetahuan, Teknologi, dan Inovasi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Kemasyarakatan dan Kebudayaan"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Pusat Penelitian Kemasyarakatan dan Kebudayaan LIPI"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Pusat Penelitian Kependudukan LIPI"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Pusat Penelitian Kimia"
+    },
+    {
+      "dataset_count": 11,
+      "value": "Pusat Penelitian Kimia LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Konservasi Tumbuhan dan kebun Raya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Konservasi Tumbuhan dan Kebun Raya-LIPI"
+    },
+    {
+      "dataset_count": 43,
+      "value": "Pusat Penelitian Laut Dalam"
+    },
+    {
+      "dataset_count": 36,
+      "value": "Pusat Penelitian Limnologi"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Pusat Penelitian Limnologi LIPI"
+    },
+    {
+      "dataset_count": 89,
+      "value": "Pusat Penelitian Metalurgi dan Material"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Metalurgi dan Material LIPI"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Pusat Penelitian Metalurgi LIPI"
+    },
+    {
+      "dataset_count": 35,
+      "value": "Pusat Penelitian Oseanografi"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Pusat Penelitian Oseanografi LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Oseanologi LIPI"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Pusat Penelitian Perkembangan Ilmu Pengetahuan dan Teknologi"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Pusat Penelitian Perkembangan Ilmu Pengetahuan dan Teknologi - LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Perkembangan Iptek - Lembaga Ilmu Pengetahuan Indonesia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Perkembangan Iptek LIPI"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pusat Penelitian Perkembangan Iptek, Lembaga Ilmu Pengetahuan Indonesia"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Pusat Penelitian Politik LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Politik, Lembaga Ilmu Pengetahuan Indonesia (P2P LIPI)"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pusat Penelitian Saumberdaya Regional LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Sistem Mutu dan Teknologi Pengujian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pusat Penelitian Telimek LIPI"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Pusat Penelitian Tenaga Listrik dan Mekatronik LIPI"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Puslit Metrologi - LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Research Center for Limnology - LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Research Center for Limnology LIPI"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Research Center for Metallurgy and Material, Indonesian Institute of Sciences"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Research Center for Metallurgy and Materials - Indonesia Institute of Sciences"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Research Center for Metallurgy and Materials - Indonesian Institute of Sciences"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Research Centre for Biology"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ritsumeikan University"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sch. of Electr. Eng. & Inf., Inst. of Technol., Bandung, Indonesia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "SEAFDEC/MFRDMD Kuala Terengganu Malaysia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sekolah Tinggi Pertanian Kutai Timur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "South Australian Museum"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Technische Universität Ilmenau"
+    },
+    {
+      "dataset_count": 1,
+      "value": "The University of Tokyo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Third Institute of Oceanography, China"
+    },
+    {
+      "dataset_count": 1,
+      "value": "U.S. Environmental Protection Agency"
+    },
+    {
+      "dataset_count": 1,
+      "value": "UIN Mataram"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Universitas Gadjah Mada"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Universiti Malaysia Sabah (UMS)"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Adelaide"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Applied Science Van Hall Larenstein"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Cambridge"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Malaya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Tasmania"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Tsukuba"
+    },
+    {
+      "dataset_count": 1,
+      "value": "University of Utah"
+    },
+    {
+      "dataset_count": 5,
+      "value": "UPT Balai Litbang Biomaterial LIPI"
+    },
+    {
+      "dataset_count": 1,
+      "value": "UPT BPPTK LIPI Yogyakarta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wageningen University"
+    }
+  ],
+  "authors": [
+    {
+      "dataset_count": 3,
+      "value": "A. Agusta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "A. Djalil"
+    },
+    {
+      "dataset_count": 1,
+      "value": "A., I Nyoman Gede P."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Abdo, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Abdulhadi, Rochadi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Achmadi, A"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Achmadi, Suminar S."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Adam, Asvi Warman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adam, Asyi Warman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adi, Deddy Triyono Nugroho"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adi, Wijaya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adilla, Fitri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adiseno"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Adji, Arif Seno"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Adjiantoro, Bintang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adjiantoro, Raden Mas Bintang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Adnyana, D.N"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Afadlal"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Afdal"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Afdlal"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Agusta, A."
+    },
+    {
+      "dataset_count": 3,
+      "value": "Agusta, Andria"
+    },
+    {
+      "dataset_count": 13,
+      "value": "Agustin, Elly Kristiati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Agustin, Elly Kritiati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Agustinus, Eko Tri Sumarnadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Agustiyani, Dwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Aji, Gutomo Bayu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Akbar, Rahardhian T"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Akhdiana, Ira"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Akil, Husein Avicenna"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Alaini, Nining Nur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Alami, Athiqah Nur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Alfan Muttaqin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Alfirano"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ali, Ahmad"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Ali, Fauzan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ali, S.A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Alik, Rober"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Amal, M. Ikhlasul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Amal, M.I."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Amin, Muhammad"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Aminullah, Erman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Amri, M.F"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Andinie, Resty Dwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Andriana, Dian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Andriyah, Lia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Anggoro, Kusnanto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Anggoro, Wahyu"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Annur, Dhyah"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Antonius, Sarjiya"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Antoro, Iwan Dwi"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Anwar, Dewi Fortuna"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Anwar, Moch Syaiful"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Anwar, Moch. Syaiful"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Aoki, Masakazu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Aoyama,  J."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Aoyama, Jun"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Apip"
+    },
+    {
+      "dataset_count": 13,
+      "value": "Aprilianti, Popi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Aprillanti, Popi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Arbi, Ucu Y."
+    },
+    {
+      "dataset_count": 5,
+      "value": "Arbi, Zatni"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Ardaka, I. M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ardhaka, I. M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ardhana, I Gede Putu"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Ardi, W. H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ardi, W.H."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Ardi, Wisnu H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ardie, Sintho Wahyuning"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Ardiyani, Marlina"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Arfah, Hairati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ariadi, Lalu Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ariana, Lutfah"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Ariati, Siti Roosita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Arifiani, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Arifiani, Deby"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Arisesa, Hana"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Artanti, Nina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ashton, Peter S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Asih, N.P.S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Asmara, Anugerah Yuka"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Asmaria, Talitha"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Astawa, I Nyoman Gede Putrayasa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Astuti, Inggit P."
+    },
+    {
+      "dataset_count": 31,
+      "value": "Astuti, Inggit Puji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Astuti, Lismining Pujiyani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Astuti, Ratna Suti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Atma"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Awalina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Azis, Nyimas Latifah"
+    },
+    {
+      "dataset_count": 2,
+      "value": "B. J. Conn"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Badjoeri, Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Bakarbessy, Elisabeth"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Baktina, Tedja Gurat"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Basyar, Hamdan"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Basyar, M. Hamdan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Berisavljevic, Gordana Kranjac"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Berliana, Nani Grace"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Bernard, H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Berzunza, L. Abdala"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Bhakti, Ikrar Nusa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Binudi, Rahardjo"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Binudi, Raharjo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Birawidha, David Candra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Brook, Barry W."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Broto, Bayu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Budi Waluyo, Thomas"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Budiansyah, Andi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Budiarjo"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Budiharta, Sugeng"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Budiman, Ismail"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Budiwanti, Erni"
+    },
+    {
+      "dataset_count": 12,
+      "value": "Cahyaningsih, Ria"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Cahyono Heru"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Cahyono, Heru"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Caicedo, V.Perdomo"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Chalid, Mochamad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Chang, Qing"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Chao, Y.S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Chrisayu, Nadia Natasha"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Chrismadha, Tjandra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Chun-Guang, Wang"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Ciptasari, Nurhayati Indah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Congdon, R.A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Conn, Barry J."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Cordova, Muhammad Reza"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Crismadha, Tjandra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Custodio, C.C."
+    },
+    {
+      "dataset_count": 1,
+      "value": "D. Ardhianto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "da Costa, Junet F. da Costa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dalimunthe, Syadwina Hamama"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dam, Sjamsumar"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Dam, Syamsumar"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Damayanti, Frisca"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Darma, I.D. Putu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Darmajana, Doddy A."
+    },
+    {
+      "dataset_count": 6,
+      "value": "Darsono, Nono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Davis, La Ode Muhammad Muchdar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "de Froe, Evert"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Delinom, Robert M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Desriani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Destri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Devi, Micha Gracianna"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dewi Rosita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dewi, Hastuti Kurniawati"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Dewi, Kartika"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Dewi, Rizna Triana"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Dewi, Rosita"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Dharmadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dianto, Aan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Didit Okta Pribadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Digdoyo, Pradhini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dinarti, Diny"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dinaseviani, Anggini"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Dirhamsyah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Djamali, A"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Djuita, Nina Ratna"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Djunaedi, Imam"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dodi, Safar"
+    },
+    {
+      "dataset_count": 14,
+      "value": "Dodo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dompeipen, Roderyck L. Ch."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dong, S.Y."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dong-Hui, Guo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Duan, Weili"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Duan,Weili"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dwianto, Wahyu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dwiarum, A.C."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Dwibadra, D."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Dwiono, Sigit Anggoro Putro"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Ebert, Georg"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Efendi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Efendi, Darda"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Effendi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Effendi, Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Eko Nugroho, Agus"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Elisabeth, Adriana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Elisabeth, Andriana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Emawati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "endang, ujang"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Erlinawati, I."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ernawati, Teni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Erniwati"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Erryani, Aprilia"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Estiati, Amy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Evi, Atut Sulma"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ezaki, B."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Fahmi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Fakhrudin, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fakhrurroja, H"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fannya, Puteri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Farida, Wartika Rosa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fauziah, Fauziah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Febrianda, Rendi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ferreira, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Feunteun,  E."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fijridianto, Izu Andry"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Fijridiyanto, Izu A"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fijridiyanto, Izu A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fijridiyanto, Izu Andri"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Fijridiyanto, Izu Andry"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fikri Nur Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Firdaus, Mochamad Ramdhan"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Firdiyono, Florentinus"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Firmanto, Alfan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fitriya, Nurul"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Fizzanty, Trina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fuad, Asrul Muhamad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Fukushima, Takehiko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gam, K.S"
+    },
+    {
+      "dataset_count": 11,
+      "value": "Garvita, R. Vitri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Garvita, R.Vitri"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Garvita, Vitri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gaveaua, David L.A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gayatri, Irine H."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Gayatri, Irine Hiraswari"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gayatri, Irine Hiraswati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gede P.A,  I Nyoman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ghozali, Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gibson, Christopher"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gill, James"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gimansyah, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ginting, Immanuel"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Goni, A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gopar, Mohamad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Goto, Nobuhiro"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gower, D. J."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Graf, Johannes A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Gumilang, Anggun R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hadiah, Julisasi T."
+    },
+    {
+      "dataset_count": 3,
+      "value": "Hadiah, Julisasi Tri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hadiaty, R .K."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hadiaty, Renny K."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hadiningrat, R Gumilar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Haerudin, Hery"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hagihara, S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hakim AR, Dorly"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hama, Takeo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hamidy, A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hamidy, Amir"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hanafi, Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Handayani, Lina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Handayani, Murni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Handayani, Rini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Handayani, Sri"
+    },
+    {
+      "dataset_count": 21,
+      "value": "Handayani, Tri"
+    },
+    {
+      "dataset_count": 17,
+      "value": "Handini, Elizabeth"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Handoko, Anton Sapto"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Handoko, Unggul"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Handoyo, Setiowiji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hans-Peter Schade"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hantoro, Wahyoe Soepri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hanyu, Takeshi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hardini, Yunita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Harimawan, Achmad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Harimurti, Sri"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Haris, Syamsuddin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hartini, S."
+    },
+    {
+      "dataset_count": 40,
+      "value": "Hartini, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hartiningsih"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Harto"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Hartutiningsih"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hartutiningsih M. S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hartutiningsih – M. Siregar"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Hartutiningsih, M. Siregar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hartutiningsih, M.Siregar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hartutiningsih-M. Siregar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Haryono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Haryono, A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Haryono, Agus"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Hasbi, Muhammad Yunan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hastuti, Diah Virsa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hastuti, Yuni Puji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hastuty, Aerma"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hattori, Masataka"
+    },
+    {
+      "dataset_count": 1,
+      "value": "He, B."
+    },
+    {
+      "dataset_count": 2,
+      "value": "He, Bin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Head, J. J."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Helfinalis"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Helmanto, Hendra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hendrian"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Hendrian, R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Henny, Cynthia"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Herbirowo, Satrio"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Herder, Fabian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Herianto, Edi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hermawati,  Wati"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Hermawati, Wati"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Hermida, I Dewa Putu"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Heryana, Ana"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Hidayat"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hidayat , Dudi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hidayat,  S."
+    },
+    {
+      "dataset_count": 3,
+      "value": "Hidayat, Dudi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hidayat, Endang"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Hidayat, Iman"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Hidayat, R. Syamsul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hidayat, S."
+    },
+    {
+      "dataset_count": 23,
+      "value": "Hidayat, Syamsul"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Hidayati, N."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Hidayati, Nuril"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hidayatullah, Syahid"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hikmawati, Elita Nur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hilmi, Nurul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hindarti, Dwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hirahara, Yuka"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hiroaki Hatta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hirose, Kazuyo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Holford, Paul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Holtum, J.A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hosomi, S.T."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hu, Maochuan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Huber, Siegfried"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Hughes, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Husni, Ali"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hutagalung, S.S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Huyskens-Keil, Su Sanne"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Huyskens-Keil, Susanne"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Hyok, Yoon Dang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ichwan, Mochamad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ichwanuddin, Wawan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ichwanudin, Wawan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Idris, As. Rakhmad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ikhsan Noviady"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Imaduddin, Agung"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Imelda, Maria"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Imron, Masyhuri"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Inayati, Ratna Shofi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Indayaningsih, Nanik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Insani, F."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Irasari, Pudji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Irawan, Andri"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Irawan, Dedi"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Irawati"
+    },
+    {
+      "dataset_count": 11,
+      "value": "Irewati, Awani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ishikawa, Hirohiko"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Islami, Muhammad Masrur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ismadi"
+    },
+    {
+      "dataset_count": 21,
+      "value": "Isnaini, Yupi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Isnaningsih, Nur Rohmatin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Isnugroho, Kusno"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Jamal, Yuliasri"
+    },
+    {
+      "dataset_count": 11,
+      "value": "Jamali, Adil"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Jasalesmana, Taofik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Jayadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Jenie, Siti Nurul Aisyiyah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Jia-Qi, Huang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Joung, W"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Juati, Ayilari-Naa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Juhaeti, T."
+    },
+    {
+      "dataset_count": 9,
+      "value": "Juhaeti, Titi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Juhonewe, N. S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Julendra, Hadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Junaedi, D.I."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Juwana, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "KA, Nekaris"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kahono, Sih"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kalibrasi, Instrumentasi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kardono, L. B. S."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Kardoyo, Hadi"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Kartika, Ika"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kartini, Indr iana"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Kartini, Indriana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kartonegoro, A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Keim, Ary P."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Kendon, J.P."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Khotimah, Purnomo Husnul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kim, Jaemyung"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kimura, Jun-Ichi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kingsford, Michael J."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kleden Probonegoro, Ninuk"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kobayahsi, Kenichiro"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Komarudin, Engkom"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kramadibrata, Kartini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Krisnandi, Dikdik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kumoro, Yugo"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Kuncari, Emma Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "kuncoro, Hadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kuono, T."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kurniawan, A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kurniawan, Erry Dwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kurniawan, Riki"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kuroki, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kuroki, Mari"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Kusharyoto, Wien"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusnandar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusuma, Dona S"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusuma, Yayam Wahyu Candra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusuma, Yayan W.C."
+    },
+    {
+      "dataset_count": 5,
+      "value": "Kusuma, Yayan Wahyu C."
+    },
+    {
+      "dataset_count": 6,
+      "value": "Kusuma, Yayan Wahyu Candra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusumaningrum, Wida Banar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusumaningtyas, A.R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kusumo, Budiarianto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Kwon, Sung-Wook"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Laelati, M."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Lailati, M."
+    },
+    {
+      "dataset_count": 6,
+      "value": "Laili, Nur"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Laksani, Chichi Shintia"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Lalasari, Latifa Hanum"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Laode, Rijai"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Larashati, Inge"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Larashati, Sekar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Larassati, D"
+    },
+    {
+      "dataset_count": 9,
+      "value": "Latifah, Dian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Laurenty, Fretycia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Leatemia, Freddy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lee, T. M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lesmanawati, Wida"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lestari, Fajar Sumi"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Lestari, Franciska Pramuji"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Lestari, Peni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lestari, Puji"
+    },
+    {
+      "dataset_count": 10,
+      "value": "Lestari, Reni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lestari, Vera Budi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lestari, Yulinda"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Levang, Patrice"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lewis, C. E."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Likumahua, Sem"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lim, Annie Pek Khiok"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Linkiec, Matthew"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Lisdiyanti, Puspita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "lisdiyanti, puspita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lisman Suryanegara"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lugrayasa, I Nyoman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lugrayasa, I. N."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Lugrayasa, I.N."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Luhulima"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Luhulima, CPF"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Luhulima, CPF."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Lukman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Luo, P."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Luo, Pingping"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Lusiana"
+    },
+    {
+      "dataset_count": 2,
+      "value": "M, Fika Rofiek"
+    },
+    {
+      "dataset_count": 1,
+      "value": "M. J, Miller,"
+    },
+    {
+      "dataset_count": 2,
+      "value": "M., Fika Rofiek"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Mabruri, Efendi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Machado-Neto, N.B."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Magandhi, Mahat"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Maghfiroh, Miratul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mahmudi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mahmudin, Dadin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mahyuni, Ridha"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mambu, Grace A."
+    },
+    {
+      "dataset_count": 3,
+      "value": "Manalu, Radot"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mansur, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Manurung, Robeth Viktoria"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mao , Lin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Marbawi, Muhamad Idris"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mardiati, Yayah"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Marganingrum, Dyah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Margono, E. Johanna Rode"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Marks, T.R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Marks. T.R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Martanti, Diyah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Martins, Flavio"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Marwoto, Ristiyanti Marsetiyowati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Maryani, Faiza"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Mashad, Dhuroruddin"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Mashad, Dhurorudin"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Maulana, Ikbal"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Maulidah, Risa"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Maunati, Yekti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mawangi, Ajeng"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Mayangsari, Wahyu"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Mayasari, Novi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Meeboon, Jamjan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Megia, Rita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "melyani, Enur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Metusala, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Miller, Michael J."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mimin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Minarti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Minegishi, Yuki"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Miyazaki, Takashi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Moenne, Morgane"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Moon, Heesung"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Morales-Benavent, I."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Morinaga, Masahiko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muchlis M, Edison"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Muchlis, Edison"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muchlis, Imamul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mudjiono"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Mufakhir, Fika Rofiek"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mufakhir, Fika Rofiq"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muhammad, Fadhilah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muharam, Aam"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muhiban"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muhtadi, Ahmad"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Mujahidin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mujiono, Nova"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muljadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mulya, Marga Asta Jaya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mulyadi, Dikdik"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Mulyadi, Hanung Agus"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mulyana, E."
+    },
+    {
+      "dataset_count": 6,
+      "value": "Mulyana, Saepul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mulyaningsih, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mulyasari, Eka"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Mumpuni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muna, M. Riefqi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Munandar, Aris"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Munandar, Hendra"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Munawar, Sasa Sofyan"
+    },
+    {
+      "dataset_count": 27,
+      "value": "Munawaroh, Esti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Murakami, Noriaki"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Murata, Yoshinori"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Murniati, Dewi Citra"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Murningsih, Tri"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Mursidawati, Sofi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mursidin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Mursito, Anggoro Tri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Murwanto, Helmy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Musin, Emilia B."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Muslichah, Dwi Agustiyani"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Nadhiroh, Irene Muflikh"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Naiola, Beth Paul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nakagami, Kenichi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Narko, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Narko, Dwi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Narulita, Ida"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Natasha, Nadia Chrisayu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "NB, Grow"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nekaris, K.A.I."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ngadiman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nikitasari, Arini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ningtyas, Kartika"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Nofdianto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nomosatriyo, Sulung"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nomosatryo, Sulung"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Noor, Firman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nora, Adri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nover, D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nover, Daniel"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nugraha, Adam Febriyanto"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Nugraheni, Ekasari"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nugroho, Dharma Arif"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nugroho, Satya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nur Alami, Athiqah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nuraini, Lutviasari"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nurdiana, D. R."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Nurhasim, Moch"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Nurhasim, Moch."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nurhidayat, Hendy"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Nurhidayat, Novik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nurhidayati, Novik"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Nurjaman, Fajar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "nurma, mira"
+    },
+    {
+      "dataset_count": 1,
+      "value": "nursyamsi, anci"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Nuryanti, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Nuswantara, Sukma"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Oktaviyanti, Dini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Onggo, Holia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Otake, T."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pabottingi, Mochtar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Palupi, Endah R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pamungkas, Joko"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Papalia, Saleh"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Paramitha, I Gusti Ayu Agung Pradnya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pardede, R. B."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Parenti, L.R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Park, Seoung-Uk"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Partomihardjo, Tukirin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pelasula, Daniel D."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pembina Data, Admin BSKDN"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Peng, Xiang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pengendalian Pencemaran Perairan Darat, Keltian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Permana, Deni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Permana, Yogi Satya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Phadmacanty, Ni Luh Putu Rischa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pharmawati, Made"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pitaloka, Ardanareswari Ayu"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Poerba, Yuyu Suryasari"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Poerbosisworo, Ishelina Rosaira"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Polosakan, Ruddy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Poulsen, Axel Dalberg"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prabottinggi, Mochtar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prameswari, D."
+    },
+    {
+      "dataset_count": 5,
+      "value": "Pramono, Andika Widya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prana, Titik K."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Praptisih"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Praptiwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Praptosuwiryo, Titien Ng."
+    },
+    {
+      "dataset_count": 7,
+      "value": "Praptosuwiryo, Titien Ngatinem"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Prasetiyo, Puguh"
+    },
+    {
+      "dataset_count": 9,
+      "value": "Prasetyo, Agus Budi"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Prasetyo, Erik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prasteyo, Didik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pratama, Bayu Arief"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pratama, Juniko Nur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pratiwi, Rianta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prawara, Budi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Prawiradilaga, Dewi M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prawiradilaga, Dewi Malia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prayudha, Bayu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prayudyaningsih, Retno"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pribadi, Didit O."
+    },
+    {
+      "dataset_count": 3,
+      "value": "Pribadi, Didit Okta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Prifiharni, Siska"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Prihadyanti, Dian"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Pritchard, H.W."
+    },
+    {
+      "dataset_count": 7,
+      "value": "Priyono, Budi"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Pudjiastuti, Tri Nuke"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pujiastuti, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pulbar, Pulbar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Pulumahuny, Frits"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purawiardi, Raden Ibrahim"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purbiantoro, Whya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purnama, Fahmy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purnomo"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Purnomo, Danang Wahyu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purnomo, R. Susandarini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purnomo, Ratna Susandarini"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Purwaningsih, Endang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwaningsih, Sri Sunarti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwanto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwanto, Mofit Eko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwanto, Y"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Purwanto, Y."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwantoro, R. Subekt i"
+    },
+    {
+      "dataset_count": 16,
+      "value": "Purwantoro, R. Subekti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwantoro, R.S."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Purwati, Pradina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwito, Agus"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Purwoarminta, Ananta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Puspitaningtyas, D.M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Puspitaningtyas, Dwi M."
+    },
+    {
+      "dataset_count": 21,
+      "value": "Puspitaningtyas, Dwi Murti"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Puspitasari, Rachma"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Putera, Prakoso Bhairawa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Putra, A.S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Putra, Prakoso Bhairawa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Putri, Kesuma"
+    },
+    {
+      "dataset_count": 16,
+      "value": "Putri, Winda Utami"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Qurrachman, Taufiq"
+    },
+    {
+      "dataset_count": 2,
+      "value": "R. Hendrian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rachmat, Arief"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rademaker, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahadiantoro, Apriyono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahaju, Sri Hartini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahardjo, Binudi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Raharjoe, Joeni Setijo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahayu, Eka M.D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahayu, Eka Martha  Della"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Rahayu, Eka Martha Della"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Rahayu, Mulyati"
+    },
+    {
+      "dataset_count": 16,
+      "value": "Rahayu, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahayu, Sri Hartin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahmadi, Cahyo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahmaida, Rizka"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahman, Agus R"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Rahman, Agus R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rahmansyah, Maman"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Rahmayanti, Yosephin Dewiani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Raju, Kati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ramadaniya, R"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Ratnawati, Tri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Riani, Etty"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Richards, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ridd, Peter V."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ridlo, Muhammad Rosyid"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Ridwansyah, Iwan"
+    },
+    {
+      "dataset_count": 30,
+      "value": "Rijai, Laode"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rijnsdorp, Adriaan D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rindyastuti, Ridesti"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Risna, Rosniati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Risna, Rosniati A."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Risna, Rosniati Apriani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Riswati, M. K."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Riswati, Melani K."
+    },
+    {
+      "dataset_count": 3,
+      "value": "Riswati, Melani Kurnia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rittirat, S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rivai, Reza Ramda"
+    },
+    {
+      "dataset_count": 11,
+      "value": "Rivai, Reza Ramdan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Riyanto, Estiko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Riyono, Sumijo Hadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Robiansyah, Iyan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Robinet, T."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rochman, Nurul Taufiqu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rodda, M"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rofiek, Fika"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rojie, Andri Fahrur"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rokhmanto, Fendy"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Romadona, Mia Rahma"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Romijarso, Toni B"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Romijarso, Toni Bambang"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Romli, Lili"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Rosaira, Ishelina"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Royani, Ahmad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rozi, Safuan"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Rozi, Syafuan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rubono"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Rugayah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Ruhimat, Riki"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Rum, Mohammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rumahenga, Samuel"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rusdi, Jack Febrian Febrian"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rusmana, Imam"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rustandi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Rustiadi, E."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sa'i, Muhammad"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Saefudin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Saefudin, Encang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Saepul Mulyana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Safarinugraha, Dina"
+    },
+    {
+      "dataset_count": 12,
+      "value": "Sahromi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sahroni"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Said, Djamhuriyah S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Said, Djamhuriyah Syaikh"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Salamena, Gerry G."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Salamena, Gerry Giliant"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Salamm, Alfitra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Salim, Tamara Adriani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Samaddar, Subhajyoti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Samala, S."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Samego, Indria"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Samir, Octavianto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sanders, K. L."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sandra, E."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Santika, Yessi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Santoso, Adi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Santoso, Agus"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Santoso, Widjajanti M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Saparita, Rachmini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Saputra, Frilla Renty Tama"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Saragih, Raskita"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sari, Karlina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sari, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sari, Martha"
+    },
+    {
+      "dataset_count": 9,
+      "value": "Sari, Rismita"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sari, Wiwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sartika, Ika"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sarwono, Rakhman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sasmito, Ediati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sassa, Kyoji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sato, Keiko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Satria, Hendra"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Satriani, Septi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Satrioajie, Widhya Nugroho"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Satriyo, Nugroho Aji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Satya, Awalina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Satyanti Annisa"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Satyanti, Annisa"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sawai, Nobuhiko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Seaton, P.T"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Seaton, P.T."
+    },
+    {
+      "dataset_count": 5,
+      "value": "Sebleku, Pius"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sekercioglu, C. H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Selamet, Selamet"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sembiring, Happy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Senda, Ryoko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Senjaya, Seni Kurnia"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Senopati, Galih"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setiadi, Bambang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setiadi, G. W."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setiawan, Bayu"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Setiawan, Fajar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setiawan, Heru"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setiawan, Iwan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setiawan, Sigit"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setyanti, Dwi"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Setyastuti, Ana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setyawan, Wahyu Budi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Setyowati, Ninik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Shofiyatul Mas'udah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Siahaan, Saut"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Siahaan, Siska A.S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Siahava, Donna Marselia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sih, Tiffany"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sihbudi, M. Riza"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Sihbudi, Riza"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Simanjuntak, Partomuan"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sinaga, Lidya Christin"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Siregar, Hartutiningsih M."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Siregar, Hartutiningsih-M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Siregar, M."
+    },
+    {
+      "dataset_count": 7,
+      "value": "Siregar, Mustaid"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Siregar, Sarah Nuraini"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Siswanto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Siswayanti, Bintoro"
+    },
+    {
+      "dataset_count": 12,
+      "value": "Sitohang, Japanton"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Smales, Lesley R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sodhi, N. S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Soedjatmiko, Bogi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Soeka, Yati Sudaryati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Soemardi, Tresna P"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Soeroso, Hartati"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Soesanto, Qinan Maulana Binu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Solihah, Saniyatun Mar'atus"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Solihin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "solikin, solikin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sondari, Dewi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sopandie, Didy"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sosilo, Maryam"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Sriyanto, Nanto"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Sriyono, Bambang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Strijkstra, A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suantoro, Wendo"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Subagja, Rudi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Subaraj, R."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Subehi, Luki"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Subekti, Agus"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Subowo, Yohanes Bernard"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Subyakto"
+    },
+    {
+      "dataset_count": 33,
+      "value": "Sudarmono"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sudarso, Jojok"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sudarso, Yoyok"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudarsono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudaryanto, Arie"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudiana, I Made"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudiarsana, Yoga S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudiyani, Yanni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudiyono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sudriani, Yuli"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sufiandi, Deddy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sufiandi, Dedi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sugandi, Totok M.S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sugeha, H. Yulia"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Sugeha, Hagi Yulia"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sugiarti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sugiarto, Arwan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suhardi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suharsi, T.K."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suharsono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suharti, Sasanti R."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suharti, Sasanti Retno"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suharto"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Suharyanto, Ariyo"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suhendar, Otong"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Suherlan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sukaesih, Sukaesih"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sukamto, L. A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sukarno, Makmuri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sukmadijaya, Dendih"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sulastri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sulawesty, Fachmijani"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Suliasih"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sulistiani"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sulistinah, Nunik"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sulistino, Adi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "sulistiyani, tri"
+    },
+    {
+      "dataset_count": 14,
+      "value": "Sulistiyono, Eko"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sulistyo, Hermawan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sumadhiharga, Kurnaen"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Sumadi"
+    },
+    {
+      "dataset_count": 14,
+      "value": "Sumanto"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sumantri, Juke"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sumardi, Adil"
+    },
+    {
+      "dataset_count": 9,
+      "value": "Sumardi, Slamet"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sunanisari, S"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sunarko,  Bambang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sunarko, Bambang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sunarti, Siti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "sunarya, dede"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sunaryani, Astried"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sunaryo, Budi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Sundari, Siti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sundjono"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Sungkar, Yasmin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Supandi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Supri Yono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Supriyatno"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suradi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Surahman, M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suratman, Maman"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Surinati, Dewi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suryana, Nanang"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Suryanegara, Lisman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suryantoro, Anton"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Suryono, Tri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Susan, L. H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Susandarini, Ratna"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Susatyo, Anjar"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Susiarti, Siti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Susila, Anas D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Susilaningsih, Dwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Susilowati, Yuliana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sutapa, Ignasius D.A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sutapa, Ignasius Dwi Atmana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sutiknowati, Lies Indah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sutini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Sutomo"
+    },
+    {
+      "dataset_count": 9,
+      "value": "Sutowo, Cahya"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Sutrisno"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Suyadi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Suyarso"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Syafarani, Tri Rainny"
+    },
+    {
+      "dataset_count": 8,
+      "value": "Syahailatua, Augy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syaid, Tata M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "syaifullah, djazim"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syamani,  Firda Aulya"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syamsurizal, Abang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syari, Fauzia"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Syarif, F."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syarif, Fauzia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syawal, M. Suhaemi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Syawal, M.S"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Takahashi, Toshiro"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Takamatsu, Susumu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Takamiya, Izumi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Takara Kaoru"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Takara, K."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Takara, Kaoru"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Takeuchi, W."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Tapilatu, Yosmina"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tappa, Baharuddin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tarmizi, Ermiziar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tasrif S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tatsumi, Yoshiyuki"
+    },
+    {
+      "dataset_count": 1,
+      "value": "TAXWIM, Taxwim"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Thaha, Yudi Nugraha"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Thammasiri, K."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Thoha, Mahmud"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Thomas, D. C."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Thomas, D.C."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Thosin, Kemas A. Zaini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tihurua, Eka Fatmawati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tjahyono, Eddy Dwi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tohari, Adrin"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Toruan, Reliana Lumban"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tresna, Wildan Panji"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tri Astuti, J."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Tri Handoko, Laksana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tri Wahyuni, Wiwiek"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Triana, Evi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Trisna, B.A"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Trisna, Beni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Triwulandari, Evi"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Triyanto"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Triyono, Budi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tryatmoko, Mardyanto Wahyu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tsugihiro, Watanabe"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tsukamoto, Katsumi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Turnip, Arjon"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Tyas, Hargyaning"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Tyas, Kartika Ning"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Undaharta, Ni Kadek Erosi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Undharta, N.K.E."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Usmadi, Didi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Utami, Ning Wikan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Utomo, Edi Prasetyo"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Utomo, Edy Priyanto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Utomo, Trisno"
+    },
+    {
+      "dataset_count": 1,
+      "value": "van Zwieten, Paul A.M."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Vitner, Yon"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Voelcker, Nicolas H"
+    },
+    {
+      "dataset_count": 1,
+      "value": "W. H., Ardi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Wahid, Abdul"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wahyono, Ari"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wahyu, Yuyu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "wahyudewantoro, gema"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wahyudi, Aan J."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Wahyudi, Aan Johan"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wahyuni"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wahyuni,  Sri"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Wahyuni, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Walujo, Eko B."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Wardani, Fitri Fatma"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wardhana, Dadan D."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Watanabe,  S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wati, Richa Kusuma"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wattimena, G. A."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wawangningrum, H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wawangningrum, Hari"
+    },
+    {
+      "dataset_count": 20,
+      "value": "Wawangningrum, Hary"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wawo, Albert Husein"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wei, L.L."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Weygoldt, Peter"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wibowo, A.R.U."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Wibowo, Hendro"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wibowo, Joko Tri"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Widawati, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widayatno, Wahyu Bambang"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widianwary,  Pitra"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widiyanto, Tri"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Widiyono, Wahyu"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widjaja, Aulia H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widjojo, Muridan S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widyanto, Tri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widyastuti, Utut"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Widyatmoko, Bambang"
+    },
+    {
+      "dataset_count": 7,
+      "value": "Widyatmoko, Didik"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Wihermanto"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wijaya, Nirmalasari Idha"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Wijayanti, Rini"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wilcove, David S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Williams, Nigel Leader"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Windadri, F.I."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wiranto, Goib"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wirawati, Ismiliana"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Wirdateti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wiriadinata, H."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Witasari, Yunia"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Witjaksono"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Witono, Joko R."
+    },
+    {
+      "dataset_count": 4,
+      "value": "Witono, Joko Ridho"
+    },
+    {
+      "dataset_count": 6,
+      "value": "Wouthuyzen, Sam"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Wowor, Daisy"
+    },
+    {
+      "dataset_count": 1,
+      "value": "WulandarHartutiningsih, M. Siregar"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wulandari, Dyah Retno"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Wulanjati, Martha"
+    },
+    {
+      "dataset_count": 1,
+      "value": "wulansari, tri yuni indah"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Wuryandari, Ganewati"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yam, T."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yani, Zulkarnain"
+    },
+    {
+      "dataset_count": 5,
+      "value": "Yanuarti, Sri"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yaumidin, Umi Karomah"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yoga, Gunawan Pratama"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yokomatsu, Muneta"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yong, D. L."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yoon, Dang-Hyok"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yopi"
+    },
+    {
+      "dataset_count": 4,
+      "value": "Yudanto, Sigit Dwi"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Yulianto, Eko"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yulita, K. S."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yuliyanto, P."
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yunarto, Yunarto"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Yuniarti, Ivana"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yuniati, Mutia Dewi"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Yustiawati"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Yustiningrum, Emilia"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Yustiningrum, RR. Emilia"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Yusuf"
+    },
+    {
+      "dataset_count": 14,
+      "value": "Yuzammi"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Zaid, G"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Zainuddin, A. Rahman"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Zhen-Zu, Xu"
+    },
+    {
+      "dataset_count": 3,
+      "value": "Zuhri, M."
+    },
+    {
+      "dataset_count": 5,
+      "value": "Zuhro, R. Siti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Zuhro, Siti"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Zuhud, Ervizal A.M."
+    },
+    {
+      "dataset_count": 2,
+      "value": "Zulhamdani, Muhammad"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Zulkarnaen, Rizmoon Nurul"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Zulkarnain, Iskandar"
+    }
+  ],
+  "catalog_complete": false,
+  "dataset_records": 1000,
+  "generated_at": "2026-09-25T06:08:52.932809+00:00",
+  "subjects": [
+    {
+      "dataset_count": 27,
+      "value": "Agricultural Sciences"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Arts and Humanities"
+    },
+    {
+      "dataset_count": 26,
+      "value": "Business and Management"
+    },
+    {
+      "dataset_count": 120,
+      "value": "Chemistry"
+    },
+    {
+      "dataset_count": 19,
+      "value": "Computer and Information Science"
+    },
+    {
+      "dataset_count": 167,
+      "value": "Earth and Environmental Sciences"
+    },
+    {
+      "dataset_count": 31,
+      "value": "Engineering"
+    },
+    {
+      "dataset_count": 1,
+      "value": "Law"
+    },
+    {
+      "dataset_count": 2,
+      "value": "Mathematical Sciences"
+    },
+    {
+      "dataset_count": 514,
+      "value": "Medicine, Health and Life Sciences"
+    },
+    {
+      "dataset_count": 3,
+      "value": "N/A"
+    },
+    {
+      "dataset_count": 19,
+      "value": "Other"
+    },
+    {
+      "dataset_count": 47,
+      "value": "Physics"
+    },
+    {
+      "dataset_count": 79,
+      "value": "Social Sciences"
+    }
+  ],
+  "unique_counts": {
+    "author_affiliations": 152,
+    "authors": 1034,
+    "subjects": 14
+  }
+}
