@@ -46,10 +46,11 @@ di-index ke OpenSearch atau belum.
 
 ### Sebelum Dokumen Di-index
 
-Ukuran data vektor mentah atau embedding dapat diestimasi dengan formula berikut:
+Sebelum dokumen di-index, estimasi ukuran data index dilakukan dalam dua langkah.
+Pertama, hitung ukuran data vektor mentah atau embedding:
 
 ```text
-size = total_vectors × dimensions × bytes_per_dimension
+embedding_size = total_vectors × dimensions × bytes_per_dimension
 ```
 
 - `total_vectors`: jumlah dokumen, chunk, atau point yang berisi embedding.
@@ -57,10 +58,16 @@ size = total_vectors × dimensions × bytes_per_dimension
 - `bytes_per_dimension`: ukuran tipe data yang digunakan oleh OpenSearch atau
   Qdrant. Contohnya, `float32` menggunakan 4 byte per dimensi.
 
-Formula ini hanya menghitung ukuran data embedding. Untuk memperkirakan ukuran
-data yang akan di-index ke OpenSearch, jumlahkan ukuran embedding dengan ukuran
-metadata dokumen yang menyertainya. Penggunaan RAM dan disk yang sebenarnya juga
-mencakup struktur index dan overhead lainnya, seperti HNSW Index. Lihat
+Kedua, tambahkan ukuran embedding tersebut dengan total ukuran metadata dokumen
+dan data lain yang akan di-index ke OpenSearch:
+
+```text
+estimated_index_data_size = embedding_size + total_document_data_size
+```
+
+Hasil ini merupakan estimasi ukuran data sebelum proses indexing. Penggunaan RAM
+dan disk yang sebenarnya juga mencakup struktur index dan overhead lainnya,
+seperti HNSW index. Lihat
 [panduan capacity planning Qdrant](https://qdrant.tech/documentation/capacity-planning/#calculating-ram-and-disk-size)
 untuk perhitungan lebih lanjut.
 
